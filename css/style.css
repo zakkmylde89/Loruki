@@ -78,6 +78,11 @@ pre {
   border-bottom: 2px #fff solid;
 }
 
+.hidden {
+  visibility: hidden;
+  height: 0;
+}
+
 /* Showcase */
 .showcase {
   height: 400px;
